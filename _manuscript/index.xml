@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving
+and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
+
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="other">
+
+<front>
+
+
+<article-meta>
+
+
+<title-group>
+<article-title>The effect of (glucose) and inflammation on
+drug-metabolizing enzymes and transporters in a novel 3D model of
+primary human hepatocytes</article-title>
+</title-group>
+
+<contrib-group>
+<contrib contrib-type="author" corresp="yes">
+<name>
+<surname>Jones</surname>
+<given-names>Norah</given-names>
+</name>
+<string-name>Norah Jones</string-name>
+
+<role vocab="https://credit.niso.org" vocab-term="writing – original
+draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">writing</role>
+<xref ref-type="aff" rid="aff-1">a</xref>
+<xref ref-type="corresp" rid="cor-1">&#x002A;</xref>
+</contrib>
+</contrib-group>
+<aff id="aff-1">
+<institution-wrap>
+<institution>The University</institution>
+</institution-wrap>
+
+
+
+
+
+
+
+</aff>
+<author-notes>
+<corresp id="cor-1"></corresp>
+</author-notes>
+
+
+
+
+
+
+
+
+
+<history></history>
+
+
+
+
+
+
+</article-meta>
+
+</front>
+
+<body>
+<sec id="abstract">
+  <title>Abstract</title>
+  <p>Drug therapy continues to be a pivotal element in the treatment of
+  a myriad of medical conditions, and pharmacology has come a long way
+  since its early days with empirical treatments with herbalism and has
+  evolved into a sophisticated science. This transformative journey
+  encapsulates the integration of knowledge spanning from molecular
+  biology to large-scale human trials, reflecting the deepening
+  understanding of drug action and biological system interactions.</p>
+  <p>Despite these advancements, variability in drug efficacy and safety
+  continues to pose significant challenges and is also under the
+  influence of pathological states such as inflammation. The research
+  presented in this thesis delves into the intricate relationship
+  between inflammation and drug metabolism, focusing on the modulation
+  of drug-metabolizing enzymes within a novel 3D model of primary human
+  hepatocytes.</p>
+  <p>In the <bold>first study</bold> we wanted to investigate if the
+  implementation of a novel 3D model of primary human hepatocytes could
+  help bridge the gap of correlation between <italic>in vivo</italic>
+  and <italic>in vitro</italic> research and improve translation of
+  <italic>in vivo</italic> research on this area. A lack of correlation
+  likely due to inherent limitations with the use of the gold standard
+  2D model, which is inherently prone to rapid dedifferentiation, and
+  the use of supraphysiological concentrations of cytokines. With the
+  hope that the 3D model and the use of also more relevant
+  concentrations of proinflammatory cytokines we found…</p>
+  <p>The <bold>second study</bold> addresses the critical aspect of
+  selecting suitable reference genes for relative gene expression using
+  qPCR analysis, a key step in ensuring the accuracy and reliability of
+  gene expression analysis. Historically, certain genes have been used
+  indiscriminately as reference genes, under the assumption of their
+  stable expression across different conditions due to their
+  ‘housekeeping’ function. However, it has become clear that no single
+  gene can or should be universally used as a reference gene, as the
+  lack of stability of your reference gene under your experimental
+  conditions may have a major impact on the final result. Interestingly,
+  we found that most of our chosen genes remained relatively stable
+  under our experimental conditions. This stability is likely attributed
+  to the careful selection of genes that are minimally affected by
+  cytokine treatments or alterations in glucose, ensuring their
+  expression remains consistent, and due to uniformity of genetic
+  expression in a primary human single cell line.</p>
+  <p>In the <bold>third study</bold>, our approach further refines the
+  3D model by introducing Kupffer cells, thereby aiming to replicate the
+  hepatic microenvironment more accurately. This enhancement is expected
+  to simulate a more authentic human inflammatory response. By
+  incorporating resident hepatic macrophages, we anticipate a closer
+  mimicry of in vivo cytokine profiles and ratios, enabling a better
+  understanding of the liver’s response to inflammation. This
+  advancement marks a significant step towards creating more reliable
+  and representative in vitro models for studying drug metabolism in
+  inflammatory conditions.</p>
+</sec>
+</body>
+
+<back>
+</back>
+
+
+
+</article>
